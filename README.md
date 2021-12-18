@@ -3,3 +3,6 @@ The goal of this challenge is to study and apply machine learning / artificial i
 
 - a graph that shapes the intensity of collaboration between researchers
 - extracts from authors' papers
+
+For this project, I needed to trained my own word2vec neural network. it is to heavy to be placed here.
+The link to access it is in my drive : https://drive.google.com/drive/folders/1LHey32_JHgBGias8SIvy5gzVdGdBjCnS?usp=sharing
